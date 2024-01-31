@@ -5,7 +5,7 @@ async function main() {
 
   const FaucetDewstar = await hre.ethers.getContractFactory("FaucetDewstar");
   console.log("GOT CONTRACT");
-  const faucetDewstar = await FaucetDewstar.deploy("0xf1fB7eceD0C955A7c00c369B911A988f0677CC1c");
+  const faucetDewstar = await FaucetDewstar.deploy("0x9905bA4865dB402a4EB05118A1e8860B465AFA7e");
   console.log("DEPLOYING CONTRACT");
   await faucetDewstar.waitForDeployment();
   
