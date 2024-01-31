@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# check the contract in sepolia etherscan : 
+https://sepolia.etherscan.io/address/0xb5317070e60a7aa53010a8351260E1945869435f
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+verified using hardhat and Sourcify using the below command
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+npx hardhat verify --network sepolia 0xb5317070e60a7aa53010a8351260E1945869435f 0x9905bA4865dB402a4EB05118A1e8860B465AFA7e
 ```
