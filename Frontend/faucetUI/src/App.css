@@ -1,5 +1,5 @@
 body {
-  background: url("./images/bg-1.png") no-repeat;
+  background: url("./images/bg-2.png") no-repeat;
   background-color: #070709;
   color: white;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 .connect-wallet span {
-  color: #E10859;
+  color: #7808e1;
 }
 
 .connect-wallet:hover {
@@ -52,7 +52,9 @@ body {
 }
 
 .faucet-hero-body {
-  margin-top: 100px;
+  margin-top:20px;
+  overflow: hidden; 
+
 }
 
 .withdraw-error {
