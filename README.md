@@ -1,6 +1,6 @@
 # FaucetDewstar
 
-**This is a faucet contract with UI for users to request token and receive DewstarToken(DEW) seamlessly every 24 hours by connecting through their Metamask wallet.**
+**Faucet contract with UI for users to request token and receive DewstarToken(DEW) seamlessly every 24 hours by connecting through their Metamask wallet.**
 
 ## URL for the faucet UI
 https://dewstarfaucet.netlify.app
