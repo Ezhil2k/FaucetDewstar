@@ -73,5 +73,8 @@ Below are the required environment variables for the project:
 - `SEPOLIA_INFURA_ENDPOINT`: The endpoint URL for the Infura node used for interacting with the Ethereum network.
 - `ETHERSCAN_KEY`: Your API key for Etherscan, which may be used for contract verification or accessing Etherscan's API.
 
-## Check the faucet contract in sepolia etherscan : 
+### Faucet contract URL: 
 https://sepolia.etherscan.io/address/0xb5317070e60a7aa53010a8351260E1945869435f
+
+### DewstarToken URL:
+https://sepolia.etherscan.io/token/0x9905bA4865dB402a4EB05118A1e8860B465AFA7e
