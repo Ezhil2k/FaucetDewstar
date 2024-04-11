@@ -4,6 +4,8 @@
 
 ## URL for the faucet UI
 https://dewstarfaucet.netlify.app
+![image](https://github.com/Ezhil2k/FaucetDewstar/assets/56902453/6120a38d-c9de-4cfd-a066-d854aef1f69e)
+
 
 ## Tech Stack
 
